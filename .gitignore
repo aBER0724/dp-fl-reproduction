@@ -1,4 +1,6 @@
 results/*
 venv/
 datasets/MNIST/raw/
-
+__pycache__/
+save/
+.idea/
